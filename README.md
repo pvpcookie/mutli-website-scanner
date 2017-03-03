@@ -1,5 +1,5 @@
 # mutli-website-scanner
-can query multiple website from a .text document for HTTP header codes IE 500, 403. also can do a  string search for "IE hacked by"
+can query multiple websites from a .text document for HTTP header codes IE 500, 403. also can do a  string search for IE "hacked by"
 
 See upload domains example.txt for stucter of domains for upload and scan.
 
