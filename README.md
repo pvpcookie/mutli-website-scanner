@@ -7,3 +7,7 @@ Functioning script here : http://webdomains.co.za/shaun/site-up/
 
 Regards
 PVP cookie ( shaun hogan )
+
+v2.0 Update
+
+Added tables filters and upgraded the visual look.
